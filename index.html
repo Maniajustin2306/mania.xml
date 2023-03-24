@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2> Movies:</h2>
+
+    <button type="button" onclick="loadXMLDoc()">
+    Click to see the Movie list</button>
+    
+    <table id="demo" border="1" cellspacing="0" cellpadding="10" width="80%" align="center"">
+    </table>
+    
+    <script>
+        function loadXMLDoc() {
+            var xmlhttp = new XMLHttpRequest();
+            xmlhttp.onreadystatechange = function() {
+                if (this.readyState == 4 && this.status == 200) {
+                    createTable(this);
+                }
+            };
+            xmlhttp.open("GET", "movie.xml", true);
+            xmlhttp.send();
+        }
+        
+        function createTable(xml) {
+            var i, k, xmlDoc, txt;
+            
+            // Actual XML File Object mode
+            xmlDoc = xml.responseXML; 
+
+            txt = `
+                <tr>
+                    <th>movieTitle</th>
+                    <th>topCast</th>
+                    <th>director</th>
+                    <th>writers</th>
+                    <th>technicalSpecs</th>
+                    <releaseDate</th>
+                </tr>
+            `;
+
+            var movietitle = xmlDoc.getElementsByTagName("movieTitle");
+            var topcast = xmlDoc.getElementsByTagName("topCast");
+            var director = xmlDoc.getElementsByTagName("director");
+            var writers = xmlDoc.getElementsByTagName("writers");
+            var technicalspecs = xmlDoc.getElementsByTagName("technicalSpecsn");
+            var releasedate= xmlDoc.getElementsByTagName("releaseDate");
+
+            for (i = 0; i < name.length; i++) {
+                txt += `
+                    <tr>
+                        <td>${movieTitle[i].childNodes[0].nodeValue}</td>
+                        <td>${topCast[i].childNodes[0].nodeValue}</td>
+                        <td>${director[i].childNodes[0].nodeValue}</td>
+                        <td>${writers[i].childNodes[0].nodeValue}</td>
+                        <td>${technicalSpecs[i].childNodes[0].nodeValue}</td>
+                        <td>${releaseDate[i].childNodes[0].nodeValue}</td>
+                        <td>    
+                            <ul>`;
+                                var list= "";
+                                for(k = 0; k < movieTitle.length-1;k++){
+                                    list += `<li>${movieTitle[i].children[k].childNodes[0].nodeValue}</li>`;
+                                }
+
+                txt +=`
+                                ${list}
+                            </ul>
+                        </td>
+                    </tr>
+                `;               
+            }
+
+            document.getElementById("demo").innerHTML = txt;
+        }
+    </script>
+</body>
+</html>

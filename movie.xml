@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<movies>
+  <movieList>
+    <movieTitle>Spiderman No Way Home</movieTitle>
+    <genres>Action</genres>
+    <genres>Adventure</genres>
+    <genres>Fantasy</genres>
+    <genres>Sci-Fi</genres>
+    <topCast>
+      <realName>Tom Holland</realName>
+      <movieName>Peter Parker</movieName>
+    </topCast>
+    <topCast>
+      <realName>Zendaya Maree Stoermer</realName>
+      <movieName>MJ</movieName>
+    </topCast>
+    <topCast>
+      <realName>Benedict Cumberbatch</realName>
+      <movieName>Doctor Strange</movieName>
+    </topCast>
+    <topCast>
+      <realName>Jon Favreau</realName>
+      <movieName>Happy Hogan</movieName>
+    </topCast>
+    <topCast>
+      <realName>Willem Dafoe</realName>
+      <movieName>Norman Osborn</movieName>
+    </topCast>
+    <topCast>
+      <realName>Benedict Wong</realName>
+      <movieName>Wong</movieName>
+    </topCast>
+    <topCast>
+      <realName>Marisa Tomei</realName>
+      <movieName>May Parker</movieName>
+    </topCast>
+    <topCast>
+      <realName>Tobey Maguire</realName>
+      <movieName>Peter Parker</movieName>
+    </topCast>
+    <topCast>
+      <realName>Arian Moayed</realName>
+      <movieName>Agent Cleary</movieName>
+    </topCast>
+    <topCast>
+      <realName>Hannibal Buress</realName>
+      <movieName>Coach Wilson</movieName>
+    </topCast>
+    <topCast>
+      <realName>Jacob Batalon</realName>
+      <movieName>Ned Leeds</movieName>
+    </topCast>
+    <topCast>
+      <realName>Alfred Molina</realName>
+      <movieName>Dr. Otto Octavious</movieName>
+    </topCast>
+    <topCast>
+      <realName>Andrew Garfield</realName>
+      <movieName>Peter Parker</movieName>
+    </topCast>
+    <topCast>
+      <realName>Angourie Rice</realName>
+      <movieName>Betty Brant</movieName>
+    </topCast>
+    <topCast>
+      <realName>Martin Starr</realName>
+      <movieName>Mr. Harrington</movieName>
+    </topCast>
+    <topCast>
+      <realName>Paula Newsome</realName>
+      <movieName>MIT Assistant Vice Chancellor</movieName>
+    </topCast>
+    <director>Jon Watts</director>
+    <writers>
+      <name>
+        <firstName>Chris</firstName>
+        <lastName>McKenna</lastName>
+      </name>
+    </writers>
+    <writers>
+      <name>
+        <firstName>Erik</firstName>
+        <lastName>Sommers</lastName>
+      </name>
+    </writers>
+    <writers>
+      <name>
+        <firstName>Stan</firstName>
+        <lastName>Lee</lastName>
+      </name>
+    </writers>
+    <storyLine>Peter Parker&#x27;s secret identity is revealed to the entire world. Desperate for help, Peter turns to Doctor Strange to make the world forget that he is Spider-Man. The spell goes horribly wrong and shatters the multiverse, bringing in monstrous villains that could destroy the world.</storyLine>
+    <tagLine>The Multiverse Unleashed</tagLine>
+    <productionCompanies>Columbia Pictures</productionCompanies>
+    <productionCompanies>Pascal Pictures</productionCompanies>
+    <productionCompanies>Marvel Studios</productionCompanies>
+    <budget>200000000</budget>
+    <technicalSpecs>
+      <runtime>2 hours 28 minutes</runtime>
+      <soundMix>Dolby Atmos</soundMix>
+      <soundMix>Dolby Digital</soundMix>
+      <soundMix>Dolby Surround</soundMix>
+      <soundMix>IMAX 6-Track</soundMix>
+    </technicalSpecs>
+    <releaseDate>
+      <months>December</months>
+      <day>17</day>
+      <year>2021</year>
+    </releaseDate>
+    <countryOrigin>United States</countryOrigin>
+    <language>English</language>
+    <filmingLocation>Iceland</filmingLocation>
+
+  </movieList>
+  <movieList>
+    <movieTitle>Five Feet Apart</movieTitle>
+    <genres>Drama</genres>
+    <genres>Romance</genres>
+    <topCast>
+      <realName>Haley Lu Rchardson</realName>
+      <movieName>Stella</movieName>
+    </topCast>
+    <topCast>
+      <realName>Cole Sprouce</realName>
+      <movieName>Will</movieName>
+    </topCast>
+    <topCast>
+      <realName>Moises Arias</realName>
+      <movieName>Poe</movieName>
+    </topCast>
+    <topCast>
+      <realName>Kimberly Hebert Gregorio</realName>
+      <movieName>Barb</movieName>
+    </topCast>
+    <topCast>
+      <realName>Parminder Nagra</realName>
+      <movieName>Dr. Hamid</movieName>
+    </topCast>
+    <topCast>
+      <realName>Claire Forlani</realName>
+      <movieName>Meredith</movieName>
+    </topCast>
+    <topCast>
+      <realName>Emily Baldoni</realName>
+      <movieName>Julie</movieName>
+    </topCast>
+    <topCast>
+      <realName>Gary Weeks</realName>
+      <movieName>Tom</movieName>
+    </topCast>
+    <topCast>
+      <realName>Cynthia Evans</realName>
+      <movieName>Erin</movieName>
+    </topCast>
+    <topCast>
+      <realName>Brett Austin Jonhson</realName>
+      <movieName>Jason</movieName>
+    </topCast>
+    <topCast>
+      <realName>Ariana Guerra</realName>
+      <movieName>Hope</movieName>
+    </topCast>
+    <topCast>
+      <realName>Sophia Bernard</realName>
+      <movieName>Abby</movieName>
+    </topCast>
+    <topCast>
+      <realName>Evangeline Hill</realName>
+      <movieName>Young Stella</movieName>
+    </topCast>
+    <topCast>
+      <realName>Cecilia Leal</realName>
+      <movieName>Camila</movieName>
+    </topCast>
+    <topCast>
+      <realName>Ivy Dubreuil</realName>
+      <movieName>Young Abby</movieName>
+    </topCast>
+    <topCast>
+      <realName>Kristopher Perez</realName>
+      <movieName>Young Poe</movieName>
+    </topCast>
+    <topCast>
+      <realName>Trina LaFargue</realName>
+      <movieName>Maya</movieName>
+    </topCast>
+    <topCast>
+      <realName>KDemi Castro</realName>
+      <movieName>Anesthesiologist</movieName>
+    </topCast>
+    <director>Justin Baldoni</director>
+    <writers>
+      <name>
+        <firstName>Mikki</firstName>
+        <lastName>Daughtry</lastName>
+      </name>
+    </writers>
+    <writers>
+      <name>
+        <firstName>Tobias</firstName>
+        <lastName>laconis</lastName>
+      </name>
+    </writers>
+    <storyLine>Seventeen-year-old Stella spends most of her time in the hospital as a cystic fibrosis patient. Her life is full of routines, boundaries and self-control all of which get put to the test when she meets Will, an impossibly charming teen who has the same illness. There&#x27;s an instant flirtation, though restrictions dictate that they must maintain a safe distance between them. As their connection intensifies, so does the temptation to throw the rules out the window and embrace that attraction. Love has no boundaries.</storyLine>
+    <tagLine>When Life Keeps You Apart, Fight For Every Inch.</tagLine>
+    <motionPicturerRating>Rated PG-13 for thematic elements</motionPicturerRating>
+    <budget>70000000</budget>
+    <technicalSpecs>
+      <runtime>1 hours 56 minutes</runtime>
+      <soundMix>Dolby Atmos</soundMix>
+      <soundMix>Dolby Digital</soundMix>
+      <soundMix>Dolby Surround</soundMix>
+      <soundMix>IMAX 6-Track</soundMix>
+    </technicalSpecs>
+    <releaseDate>
+      <months>March</months>
+      <day>15</day>
+      <year>2019</year>
+    </releaseDate>
+    <countryOrigin>United States</countryOrigin>
+    <languages>English</languages>
+    <languages>French</languages>
+    <filmingLocation>New Orleans</filmingLocation>
+    <filmingLocation>Louisiana</filmingLocation>
+    <filmingLocation>USA</filmingLocation>
+    <productionCompanies>CBS Films</productionCompanies>
+    <productionCompanies>Wayfarer Studios</productionCompanies>
+    <productionCompanies>Welle Entertainment</productionCompanies>
+  
+  </movieList>
+  <movieList>
+    <movieTitle>Transformers</movieTitle>
+    <genres>Action</genres>
+    <genres>Adventure</genres>
+    <genres>Sci-Fi</genres>
+    <topCast>
+      <realName>Shia LaBeouf</realName>
+      <movieName>Sam Witwicky</movieName>
+    </topCast>
+    <topCast>
+      <realName>Megan Fox</realName>
+      <movieName>Mikaela Banes</movieName>
+    </topCast>
+    <topCast>
+      <realName>Josh Duhamel</realName>
+      <movieName>Captain Lennox</movieName>
+    </topCast>
+    <topCast>
+      <realName>Tyrese Gibson</realName>
+      <movieName>USAF Tech Sergeant Epps</movieName>
+    </topCast>
+    <topCast>
+      <realName>Rachael Taylor</realName>
+      <movieName>Maggie Madsen</movieName>
+    </topCast>
+    <topCast>
+      <realName>Anthony Anderson</realName>
+      <movieName>Gien Whitmann</movieName>
+    </topCast>
+    <topCast>
+      <realName>Jon Voight</realName>
+      <movieName>Defense Secretary John Keller</movieName>
+    </topCast>
+    <topCast>
+      <realName>John Turturro</realName>
+      <movieName>Agent Simmons</movieName>
+    </topCast>
+    <topCast>
+      <realName>Michael O&#x27;Neill</realName>
+      <movieName>Tom Banacheck</movieName>
+    </topCast>
+    <topCast>
+      <realName>Kevin Dunn</realName>
+      <movieName>Ron Witwicky</movieName>
+    </topCast>
+    <topCast>
+      <realName>Julie White</realName>
+      <movieName>Judy Witwicky</movieName>
+    </topCast>
+    <topCast>
+      <realName>Amaury Nolasco</realName>
+      <movieName>ACWO Jorge Fig Figueroa</movieName>
+    </topCast>
+    <topCast>
+      <realName>Zack Ward</realName>
+      <movieName>First Sergeant Donnelly</movieName>
+    </topCast>
+    <topCast>
+      <realName>Luis Echagarruga</realName>
+      <movieName>Ranger Team</movieName>
+    </topCast>
+    <topCast>
+      <realName>Brian Shenhan</realName>
+      <movieName>Ranger Team</movieName>
+    </topCast>
+    <topCast>
+      <realName>Michael Trisler</realName>
+      <movieName>Ranger Team</movieName>
+    </topCast>
+    <topCast>
+      <realName>Ashkan Kashanchi</realName>
+      <movieName>Mahfouz</movieName>
+    </topCast>
+    <director>Michael Bay</director>
+    <writers>
+      <name>
+        <firstName>Roberto</firstName>
+        <lastName>Orci</lastName>
+      </name>
+    </writers>
+    <writers>
+      <name>
+        <firstName>Alex</firstName>
+        <lastName>Kurtzman</lastName>
+      </name>
+    </writers>
+    <writers>
+      <name>
+        <firstName>John</firstName>
+        <lastName>Rogers</lastName>
+      </name>
+    </writers>
+    <storyLine>High-school student Sam Witwicky buys his first car, who is actually the Autobot Bumblebee. Bumblebee defends Sam and his girlfriend Mikaela Banes from the Decepticon Barricade, before the other Autobots arrive on Earth. They are searching for the Allspark, and the war on Earth heats up as the Decepticons attack a United States military base in Qatar. Sam and Mikaela are taken by the top-secret agency Sector 7 to help stop the Decepticons, but when they learn the agency also intends to destroy the Autobots, they formulate their own plan to save the world.</storyLine>
+    <tagLine>Their war Our World</tagLine>
+    <productionCompanies>Dreamworks Pictures</productionCompanies>
+    <productionCompanies>Tom DeSanto/Don Murphy Production</productionCompanies>
+    <productionCompanies>Paramount Pictures</productionCompanies>
+    <budget>15000000</budget>
+    <technicalSpecs>
+      <runtime>2 hours 24 minutes</runtime>
+      <soundMix>Dolby Digital</soundMix>
+      <soundMix>DTS</soundMix>
+      <soundMix>SDDS</soundMix>
+      <soundMix>Dolby Atmos</soundMix>
+    </technicalSpecs>
+    <releaseDate>
+      <months>July</months>
+      <day>3</day>
+      <year>2007</year>
+    </releaseDate>
+    <countryOrigin>United States</countryOrigin>
+    <language>English</language>
+    <language>Spanish</language>
+    <filmingLocation>Michigan Central Depot W</filmingLocation>
+    <filmingLocation>Venor and W Michigan Avenues</filmingLocation>
+    <filmingLocation>Detroit</filmingLocation>
+    <filmingLocation>Michigan</filmingLocation>
+    <filmingLocation>USA</filmingLocation>
+    <motionPicturerRating>Rated PG-13 for intense sequences of sci-fi aciton violence, brief sexual humor, and language</motionPicturerRating>
+  </movieList>
+  <movieList>
+    <movieTitle>The Conjuring</movieTitle>
+    <genres>Horror</genres>
+    <genres>Mystery</genres>
+    <genres>Thriller</genres>
+    <topCast>
+      <realName>Patrick Wilson</realName>
+      <movieName>Ed Warren</movieName>
+    </topCast>
+    <topCast>
+      <realName>Vera Farmiga</realName>
+      <movieName>Lorraine Warren</movieName>
+    </topCast>
+    <topCast>
+      <realName>Ron Livingston</realName>
+      <movieName>Roger Perron</movieName>
+    </topCast>
+    <topCast>
+      <realName>Lili Taylor</realName>
+      <movieName>Carolyn Perron</movieName>
+    </topCast>
+    <topCast>
+      <realName>Shanley Caswell</realName>
+      <movieName>Andrea</movieName>
+    </topCast>
+    <topCast>
+      <realName>Hayley MacFarland</realName>
+      <movieName>Nancy</movieName>
+    </topCast>
+    <topCast>
+      <realName>Joey King</realName>
+      <movieName>Christine</movieName>
+    </topCast>
+    <topCast>
+      <realName>Mackenzie Foy</realName>
+      <movieName>Cindy</movieName>
+    </topCast>
+    <topCast>
+      <realName>Kyla Deaver</realName>
+      <movieName>April</movieName>
+    </topCast>
+    <topCast>
+      <realName>Shannon Kook</realName>
+      <movieName>Drew</movieName>
+    </topCast>
+    <topCast>
+      <realName>John Brotherton</realName>
+      <movieName>Brad</movieName>
+    </topCast>
+    <topCast>
+      <realName>Sterling Jerins</realName>
+      <movieName>Judy Warrens</movieName>
+    </topCast>
+    <topCast>
+      <realName>Marion Guyot</realName>
+      <movieName>Georgiana</movieName>
+    </topCast>
+    <topCast>
+      <realName>Morganna Bridgers</realName>
+      <movieName>Debbie</movieName>
+    </topCast>
+    <topCast>
+      <realName>Amy Tipton</realName>
+      <movieName>Camilla</movieName>
+    </topCast>
+    <topCast>
+      <realName>Kymoura Kennedy</realName>
+      <movieName>Student #1</movieName>
+    </topCast>
+    <topCast>
+      <realName>Sean Flynn</realName>
+      <movieName>Student #2</movieName>
+    </topCast>
+    <topCast>
+      <realName>Ashley White</realName>
+      <movieName>Female Student</movieName>
+    </topCast>
+    <director>James Wan</director>
+    <writers>
+      <name>
+        <firstName>Chad</firstName>
+        <lastName>Hayes</lastName>
+      </name>
+    </writers>
+    <writers>
+      <name>
+        <firstName>Carey </firstName>
+        <middleName>W</middleName>
+        <lastName>Hayes</lastName>
+      </name>
+    </writers>
+    <storyLine>In 1971, Carolyn and Roger Perron move their family into a dilapidated Rhode Island farm house and soon strange things start happening around it with escalating nightmarish terror. In desperation, Carolyn contacts the noted paranormal investigators, Ed and Lorraine Warren, to examine the house. What the Warrens discover is a whole area steeped in a satanic haunting that is now targeting the Perron family wherever they go. To stop this evil, the Warrens will have to call upon all their skills and spiritual strength to defeat this spectral menace at its source that threatens to destroy everyone involved.</storyLine>
+    <tagLine>Evil Loves Innocense</tagLine>
+    <productionCompanies>New Line Cinema</productionCompanies>
+    <productionCompanies>The Sadran Company</productionCompanies>
+    <productionCompanies>Evergreen Media Group</productionCompanies>
+    <budget>20000000</budget>
+    <technicalSpecs>
+      <runtime>1 hours 52 minutes</runtime>
+      <soundMix>Dolby Digital</soundMix>
+      <soundMix>Datasat</soundMix>
+      <soundMix>SDDS</soundMix>
+    </technicalSpecs>
+    <releaseDate>
+      <months>July</months>
+      <day>19</day>
+      <year>2013</year>
+    </releaseDate>
+    <countryOrigin>United States</countryOrigin>
+    <language>English</language>
+    <language>Latin</language>
+    <filmingLocation>North Carolina</filmingLocation>
+    <filmingLocation>USA</filmingLocation>
+    <motionPicturerRating>Rated R for sequences of disturbing violence and terror</motionPicturerRating>
+
+  </movieList>
+  <movieList>
+    <movieTitle>How to Train Your Dragon</movieTitle>
+    <genres>Animation</genres>
+    <genres>Action</genres>
+    <genres>Adventure</genres>
+    <genres>Comedy</genres>
+    <genres>Family</genres>
+    <genres>Fantasy</genres>
+    <topCast>
+      <realName>Jay Baruchel</realName>
+      <movieName>Hiccup</movieName>
+    </topCast>
+    <topCast>
+      <realName>Gerard Butler</realName>
+      <movieName>Stoick</movieName>
+    </topCast>
+    <topCast>
+      <realName>Christopher Mintz Plasse</realName>
+      <movieName>Fishlegs</movieName>
+    </topCast>
+    <topCast>
+      <realName>Craig Ferguson</realName>
+      <movieName>Gobber</movieName>
+    </topCast>
+    <topCast>
+      <realName>America Ferrera</realName>
+      <movieName>Astrid</movieName>
+    </topCast>
+    <topCast>
+      <realName>Jonah Hill</realName>
+      <movieName>Snotlout</movieName>
+    </topCast>
+    <topCast>
+      <realName>TJ Miller</realName>
+      <movieName>Tuffnut</movieName>
+    </topCast>
+    <topCast>
+      <realName>Kristen Wiig</realName>
+      <movieName>Ruffnut</movieName>
+    </topCast>
+    <topCast>
+      <realName>Robin Atkin Downes</realName>
+      <movieName>Ack</movieName>
+    </topCast>
+    <topCast>
+      <realName>Philip McGrade</realName>
+      <movieName>Starkard</movieName>
+    </topCast>
+    <topCast>
+      <realName>Kieron Elliott</realName>
+      <movieName>Hoark the Haggard</movieName>
+    </topCast>
+    <topCast>
+      <realName>Ashley Jensen</realName>
+      <movieName>Phlegma the Fierce</movieName>
+    </topCast>
+    <topCast>
+      <realName>David Tennant</realName>
+      <movieName>Spitelout</movieName>
+    </topCast>
+    <director>Dean DeBlois</director>
+    <director>Chris Sanders</director>
+    <writers>
+      <name>
+        <firstName>William</firstName>
+        <lastName>Davies</lastName>
+      </name>
+    </writers>
+    <writers>
+      <name>
+        <firstName>Dean</firstName>
+        <lastName>DeBlois</lastName>
+      </name>
+    </writers>
+    <writers>
+      <name>
+        <firstName>Chris</firstName>
+        <lastName>Sanders</lastName>
+      </name>
+    </writers>
+    <storyLine>Long ago up North on the Island of Berk, the young Viking, Hiccup, wants to join his town&#x27;s fight against the dragons that continually raid their town. However, his macho father and village leader, Stoik the Vast, will not allow his small, clumsy, but inventive son to do so. Regardless, Hiccup ventures out into battle and downs a mysterious Night Fury dragon with his invention, but can&#x27;t bring himself to kill it. Instead, Hiccup and the dragon, whom he dubs Toothless, begin a friendship that would open up both their worlds as the observant boy learns that his people have misjudged the species. But even as the two each take flight in their own way, they find that they must fight the destructive ignorance plaguing their world.</storyLine>
+    <tagLine>One adventure will change two worlds</tagLine>
+    <productionCompanies>Dreamworks Animation</productionCompanies>
+    <productionCompanies>Mad Hatter Entertainment</productionCompanies>
+    <productionCompanies>Vertigo Entertainment</productionCompanies>
+    <budget>165000000</budget>
+    <technicalSpecs>
+      <runtime>1 hours 38 minutes</runtime>
+      <soundMix>Dolby Digital</soundMix>
+      <soundMix>DTS</soundMix>
+      <soundMix>SDDS</soundMix>
+    </technicalSpecs>
+    <releaseDate>
+      <months>March</months>
+      <day>26</day>
+      <year>2010</year>
+    </releaseDate>
+    <countryOrigin>United States</countryOrigin>
+    <language>English</language>
+    <motionPicturerRating>Rated PG for sequences of intense aciton and some scary images, and brief mild language</motionPicturerRating>
+    
+  </movieList>
+</movies>
